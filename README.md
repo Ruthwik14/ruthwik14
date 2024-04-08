@@ -34,11 +34,23 @@ DAX Queries | Power Query | ETL | Report & Dashboard Creation | Data Interpretat
 
 ### Projects and Dev Stuffs
 
-In my cosmic journey through data, I've embarked on numerous projects:
+#### Python
+- [Turnkey Lender](Project_Link_Python1) (Tool Used: Python)
+- [Employee Attrition Case Study](Project_Link_Python2) (Tool Used: Python)
+- [RFM Analysis of Online Retail Data](Project_Link_Python3) (Tool Used: Python)
+- [Patient Appointment No-Show Factors](Project_Link_Python4) (Tool Used: Python)
 
-- **Telecom Transformation with Power BI**: Mastering data visualization and strategic analysis to address telecom challenges.
-- **Sales Analysis for Balanced Tree Clothing Company**: Crafting actionable insights from relational database systems to drive revenue growth.
-- **Insightful Data Analysis with KPMG**: Collaborating for impactful insights and growth-driving strategies.
+#### Power BI
+- [KPMG](Project_Link_PowerBI1) (Tool Used: Power-BI)
+- [PwC Switzerland](Project_Link_PowerBI2) (Tool Used: Power -BI)
+- [Tata Consultancy Services (TCS)](Project_Link_PowerBI3) (Tool Used: Power -BI)
+- [COVID-19 World Vaccination Progress](Project_Link_PowerBI4) (Tool Used: Power -BI)
+- [Employee Retention and Satisfaction](Project_Link_PowerBI5) (Tool Used: Power -BI)
+
+#### SQL
+- [Digital Music Store SQL Case Study](Project_Link_SQL1) (Tool Used: SQL)
+- [Balanced Tree Clothing Company Sales Analysis](Project_Link_SQL2) (Tool Used: SQL)
+- [The Company's DVD Rental Business](Project_Link_SQL3) (Tool Used: SQL)
 
 ### Connect with me!
 
