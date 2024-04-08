@@ -35,22 +35,22 @@ DAX Queries | Power Query | ETL | Report & Dashboard Creation | Data Interpretat
 ### Projects and Dev Stuffs
 
 #### Python
-- [Turnkey Lender](Project_Link_Python1) (Tool Used: Python)
-- [Employee Attrition Case Study](Project_Link_Python2) (Tool Used: Python)
-- [RFM Analysis of Online Retail Data](Project_Link_Python3) (Tool Used: Python)
-- [Patient Appointment No-Show Factors](Project_Link_Python4) (Tool Used: Python)
+- [Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Turnkey%20Lender)
+- [Employee Attrition Case Study](https://github.com/Ruthwik14/Python/tree/main/Employee%20Attrition)
+- [RFM Analysis of Online Retail Data](https://github.com/Ruthwik14/Python/tree/main/RFM%20Analysis%20of%20online%20retail%20data)
+- [Patient Appointment No-Show Factors](https://github.com/Ruthwik14/Python/tree/main/EDA/Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
 
 #### Power BI
-- [KPMG](Project_Link_PowerBI1) (Tool Used: Power-BI)
-- [PwC Switzerland](Project_Link_PowerBI2) (Tool Used: Power -BI)
-- [Tata Consultancy Services (TCS)](Project_Link_PowerBI3) (Tool Used: Power -BI)
-- [COVID-19 World Vaccination Progress](Project_Link_PowerBI4) (Tool Used: Power -BI)
-- [Employee Retention and Satisfaction](Project_Link_PowerBI5) (Tool Used: Power -BI)
+- [KPMG](https://github.com/Ruthwik14/Power-BI/tree/main/Kpmg)
+- [PwC Switzerland](https://github.com/Ruthwik14/Power-BI/tree/main/PWC%20powerbi)
+- [Tata Consultancy Services (TCS)](https://github.com/Ruthwik14/Power-BI/tree/main/tata)
+- [COVID-19 World Vaccination Progress](https://github.com/Ruthwik14/Power-BI/tree/main/covid%20vacination)
+- [Employee Retention and Satisfaction](https://github.com/Ruthwik14/Power-BI/tree/main/HR%20data)
 
 #### SQL
-- [Digital Music Store SQL Case Study](Project_Link_SQL1) (Tool Used: SQL)
-- [Balanced Tree Clothing Company Sales Analysis](Project_Link_SQL2) (Tool Used: SQL)
-- [The Company's DVD Rental Business](Project_Link_SQL3) (Tool Used: SQL)
+- [Digital Music Store SQL Case Study]([Project_Link_SQL1](https://github.com/Ruthwik14/SQL/tree/main/Music%20Store%20Analysis))
+- [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
+- [The Company's DVD Rental Business]([Project_Link_SQL3](https://github.com/Ruthwik14/SQL/tree/main/the%20company's%20dvd%20rental%20business))
 
 ### Connect with me!
 
