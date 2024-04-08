@@ -2,11 +2,13 @@
 
 ### Welcome to my GitHub Universe! 🌌 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Ruthwik14.Ruthwik14&style=flat-square&color=0088cc)
 
-🚀 I'm a cosmic data explorer, navigating through the vast expanse of information as a data analyst and data scientist.
+🚀 I'm a cosmic data explorer, navigating through the vast expanse of information as a Business Intelligence Analyst at OFFSHOOT AGENCY PVT. LTD. My areas of interest lie in strategy consulting and project management.
+
+🔍 Currently, I'm delving deeper into the realms of Machine Learning and AI, eager to unravel their mysteries and harness their power for innovative solutions.
 
 ### Professional Summary
 
-I'm not just crunching numbers; I'm crafting narratives from data. With the wisdom of a data analyst and the creativity of a data scientist, I transform raw data into actionable insights.
+I'm not just crunching numbers; I'm crafting narratives from data. With the wisdom of a mid-senior data analyst and the creativity of a data scientist, I transform raw data into actionable insights.
 
 ### Education
 
@@ -40,4 +42,4 @@ In my cosmic journey through data, I've embarked on numerous projects:
 
 ### Connect with me!
 
-Let's embark on a data odyssey together! Connect with me on [LinkedIn](https://www.linkedin.com/in/ruthwik-devanapalli/) as we unravel the mysteries of the data universe. 🌟
+Let's embark on a data odyssey together! Feel free to reach out to me at ruthwik.devanapalli@gmail.com as we unravel the mysteries of the data universe. 🌟
