@@ -48,9 +48,9 @@ DAX Queries | Power Query | ETL | Report & Dashboard Creation | Data Interpretat
 - [Employee Retention and Satisfaction](https://github.com/Ruthwik14/Power-BI/tree/main/HR%20data)
 
 #### SQL
-- [Digital Music Store SQL Case Study]([Project_Link_SQL1](https://github.com/Ruthwik14/SQL/tree/main/Music%20Store%20Analysis))
+- [Digital Music Store SQL Case Study](https://github.com/Ruthwik14/SQL/tree/main/Music%20Store%20Analysis))
 - [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
-- [The Company's DVD Rental Business]([Project_Link_SQL3](https://github.com/Ruthwik14/SQL/tree/main/the%20company's%20dvd%20rental%20business))
+- [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/the%20company's%20dvd%20rental%20business))
 
 ### Connect with me!
 
