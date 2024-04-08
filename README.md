@@ -2,11 +2,11 @@
 
 ### Welcome to my GitHub Universe! 🌌 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Ruthwik14.Ruthwik14&style=flat-square&color=0088cc)
 
-🚀 I'm a cosmic data explorer, navigating through the vast expanse of information as a mid-senior data analyst and data scientist.
+🚀 I'm a cosmic data explorer, navigating through the vast expanse of information as a data analyst and data scientist.
 
 ### Professional Summary
 
-I'm not just crunching numbers; I'm crafting narratives from data. With the wisdom of a mid-senior data analyst and the creativity of a data scientist, I transform raw data into actionable insights.
+I'm not just crunching numbers; I'm crafting narratives from data. With the wisdom of a data analyst and the creativity of a data scientist, I transform raw data into actionable insights.
 
 ### Education
 
