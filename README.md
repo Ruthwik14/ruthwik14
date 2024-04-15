@@ -24,13 +24,14 @@ I'm not just crunching numbers; I'm crafting narratives from data. With the wisd
 
 I speak the languages of data:
 
-Structured Query Language (SQL) | MS Power-BI | Tableau | Python | Microsoft Excel
+Microsoft Excel /// Structured Query Language (SQL) /// MS Power-BI /// Tableau /// Python
 
 ### Analytics Skills
 
 I'm not just a data cruncher; I'm a data maestro:
 
-DAX Queries | Power Query | ETL | Report & Dashboard Creation | Data Interpretation | Statistical Sorcery
+Key performance indicators (KPIs) /// ETL (Extract, Transform, Load) /// Report Creation /// Dashboard Creation /// Statistical 
+model /// machine learning /// Database managementReport & Dashboard Creation /// DAX Queries /// Power Query 
 
 ### Projects and Dev Stuffs
 
