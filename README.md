@@ -8,50 +8,58 @@
 
 ### Professional Summary
 
-I'm not just crunching numbers; I'm crafting narratives from data. With the wisdom of a mid-senior data analyst and the creativity of a data scientist, I transform raw data into actionable insights.
+Experienced Business Intelligence Analyst proficient in data analysis, visualization, and reporting. Skilled in collecting and interpreting large datasets to drive strategic decision-making. Expertise in dashboard creation, data modeling, and database management. Bachelor's in Mechanical engineering. Proficiency in Tableau, Power BI, and SQL.
 
-### Education
+### Professional Experience
 
-- Accelerator Program in Business Analytics and Data Science (Certification), Hero Vired, 10/2023
-- Mechanical Engineering (Certification), Jawaharlal Nehru Technological University, 05/2013
+**OFFSHOOT AGENCY PVT. LTD. (02/2021 - Current)**
+Business Intelligence Analyst, NOIDA, UTTAR PRADESH
+- Spearheaded the creation and maintenance of daily reports
+- Delivered key performance indicators (KPIs) using Excel for informed decision-making
+- Implemented robust Corrective and Preventive Action (CAPA) strategies
+- Achieved consistent sales success by surpassing monthly, quarterly, and yearly goals
 
-### Certifications
+**EUREKA OUTSOURCING LIMITED (02/2019 - 02/2020)**
+Customer Support Agent, CHENNAI, TAMIL NADU
+- Achieved a 20% improvement in Resolving Customer Complaints
+- Demonstrated in-depth knowledge of insurance
+- Proficient in utilizing MS EXCEL and data input programs
 
-- Tableau (Certification), Simplilearn, 12/2023
-- Data Visualization with Power BI (Certification), Great Learning, 12/2023
+**L&T TECHNOLOGY SERVICES LTD. (12/2016 - 03/2018)**
+Design Engineer, VADODARA, Gujarat
+- Spearheaded the design & development of BIW Fixture Platform
+- Utilized PLM Tool MS Excel to prepare Bills of Materials (BOM)
+
+**GROUP OF ENGINEER’S SERVICES PVT. LTD (05/2015 - 10/2016)**
+Junior Design Engineer, HYDERABAD, TELANGANA
+- Conducted comprehensive Quality Control Checks on 3D Models
+
+### Internships
+
+**TURNKEY LENDER (PROJECT LINK) (Tool Used: Python)**
+Data Analyst
+- Meticulously analyzed customer data to unearth the factors underlying credit card defaults
+- Conducted data cleaning, exploratory data analysis (EDA), and inferential statistics techniques
+- Leveraged statistical methods to derive actionable insights
+
+**KPMG (PROJECT LINK) (Tool Used: Power-BI)**
+Data Analyst
+- Led comprehensive data analysis projects for Sprocket Central Pty Ltd
+- Crafted targeted presentations and created insightful dashboards
+
+**BALANCED TREE CLOTHING COMPANY SALES ANALYSIS (PROJECT LINK) (Tool Used: SQL)**
+Data Analyst
+- Led comprehensive sales analysis for Balanced Tree Clothing Company
+- Utilized advanced SQL queries to analyses transactional data
 
 ### Technical Skills
-
-I speak the languages of data:
 
 Structured Query Language (SQL) | MS Power-BI | Tableau | Python | Microsoft Excel
 
 ### Analytics Skills
 
-I'm not just a data cruncher; I'm a data maestro:
-
 DAX Queries | Power Query | ETL | Report & Dashboard Creation | Data Interpretation | Statistical Sorcery
-
-### Projects and Dev Stuffs
-
-#### Python
-- [Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Turnkey%20Lender)
-- [Employee Attrition Case Study](https://github.com/Ruthwik14/Python/tree/main/Employee%20Attrition)
-- [RFM Analysis of Online Retail Data](https://github.com/Ruthwik14/Python/tree/main/RFM%20Analysis%20of%20online%20retail%20data)
-- [Patient Appointment No-Show Factors](https://github.com/Ruthwik14/Python/tree/main/EDA/Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
-
-#### Power BI
-- [KPMG](https://github.com/Ruthwik14/Power-BI/tree/main/Kpmg)
-- [PwC Switzerland](https://github.com/Ruthwik14/Power-BI/tree/main/PWC%20powerbi)
-- [Tata Consultancy Services (TCS)](https://github.com/Ruthwik14/Power-BI/tree/main/tata)
-- [COVID-19 World Vaccination Progress](https://github.com/Ruthwik14/Power-BI/tree/main/covid%20vacination)
-- [Employee Retention and Satisfaction](https://github.com/Ruthwik14/Power-BI/tree/main/HR%20data)
-
-#### SQL
-- [Digital Music Store SQL Case Study](https://github.com/Ruthwik14/SQL/tree/main/Music%20Store%20Analysis)
-- [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
-- [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/the%20company's%20dvd%20rental%20business)
 
 ### Connect with me!
 
-Let's embark on a data odyssey together! Feel free to reach out to me at ruthwik.devanapalli@gmail.com as we unravel the mysteries of the data universe. 🌟
+Let's embark on a data odyssey together! Feel free to reach out to me at ruthwik.devanapalli@gmail.com as we unravel the mysteries of the data universe. 🌟"
