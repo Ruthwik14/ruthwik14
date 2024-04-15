@@ -12,8 +12,8 @@ I'm not just crunching numbers; I'm crafting narratives from data. With the wisd
 
 ### Education
 
-- Accelerator Program in Business Analytics and Data Science (Certification), Hero Vired, 10/2023
-- Mechanical Engineering (Certification), Jawaharlal Nehru Technological University, 05/2013
+- Accelerator Program in Business Analytics and Data Science ---------------- Hero Vired, 10/2023
+- Mechanical Engineering ---------------------- Jawaharlal Nehru Technological University, 05/2013
 
 ### Certifications
 
@@ -30,8 +30,8 @@ Microsoft Excel /// Structured Query Language (SQL) /// MS Power-BI /// Tableau 
 
 I'm not just a data cruncher; I'm a data maestro:
 
-Key performance indicators (KPIs) /// ETL (Extract, Transform, Load) /// Report Creation /// Dashboard Creation /// Statistical 
-model /// machine learning /// Database managementReport & Dashboard Creation /// DAX Queries /// Power Query 
+Key performance indicators (KPIs) /// ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical 
+model /// machine learning /// Database management /// DAX Queries /// Power Query 
 
 ### Projects and Dev Stuffs
 
