@@ -22,9 +22,14 @@ I'm not just crunching numbers; I'm crafting narratives from data. With the wisd
 
 ### Technical Skills
 
-I speak the languages of data:
+<h2> 🚀 &nbsp;Some Tools I speak the languages of data</h2>
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="vscode" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="php" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="bash" width="45" height="45"/>
+</p>
 
- Structured Query Language (SQL) /// MS Power-BI /// Python /// Microsoft Excel /// Tableau 
+Microsoft Excel /// Tableau 
 
 ### Analytics Skills
 
