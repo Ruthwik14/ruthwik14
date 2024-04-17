@@ -24,7 +24,7 @@ I'm not just crunching numbers; I'm crafting narratives from data. With the wisd
 
 I speak the languages of data:
 
-Microsoft Excel /// Structured Query Language (SQL) /// MS Power-BI /// Tableau /// Python
+ Structured Query Language (SQL) /// MS Power-BI /// Python /// Microsoft Excel /// Tableau 
 
 ### Analytics Skills
 
