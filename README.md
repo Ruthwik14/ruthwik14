@@ -32,12 +32,6 @@ ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical m
 
 ### Projects and Dev Stuffs
 
-#### Python
-- [Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Turnkey%20Lender)
-- [Employee Attrition Case Study](https://github.com/Ruthwik14/Python/tree/main/Employee%20Attrition)
-- [RFM Analysis of Online Retail Data](https://github.com/Ruthwik14/Python/tree/main/RFM%20Analysis%20of%20online%20retail%20data)
-- [Patient Appointment No-Show Factors](https://github.com/Ruthwik14/Python/tree/main/EDA/Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
-
 #### Power BI
 - [KPMG](https://github.com/Ruthwik14/Power-BI/tree/main/Kpmg)
 - [PwC Switzerland](https://github.com/Ruthwik14/Power-BI/tree/main/PWC%20powerbi)
@@ -49,6 +43,13 @@ ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical m
 - [Digital Music Store SQL Case Study](https://github.com/Ruthwik14/SQL/tree/main/Music%20Store%20Analysis)
 - [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
 - [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/the%20company's%20dvd%20rental%20business)
+
+#### Python
+- [Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Turnkey%20Lender)
+- [Employee Attrition Case Study](https://github.com/Ruthwik14/Python/tree/main/Employee%20Attrition)
+- [RFM Analysis of Online Retail Data](https://github.com/Ruthwik14/Python/tree/main/RFM%20Analysis%20of%20online%20retail%20data)
+- [Patient Appointment No-Show Factors](https://github.com/Ruthwik14/Python/tree/main/EDA/Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
+
 
 ### Connect with me!
 
