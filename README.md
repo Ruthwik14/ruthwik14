@@ -17,8 +17,8 @@ I'm not just crunching numbers; I'm crafting narratives from data. With the wisd
 
 ### Certifications
 
-- Tableau (Certification), Simplilearn, 12/2023
-- Data Visualization with Power BI (Certification), Great Learning, 12/2023
+- [![Tableau](https://img.shields.io/badge/-Tableau-00A0E0?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/products/desktop)   ---------------------- Simplilearn, 12/2023
+- Data Visualization with [![Power BI](https://img.shields.io/badge/-Power_BI-0078D7?style=flat-square&logo=PowerBI&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-bi) -------------------- Great Learning, 12/2023
 
 ### Technical Skills
 
