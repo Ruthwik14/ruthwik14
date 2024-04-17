@@ -1,37 +1,56 @@
-## Welcome to My Data Playground! 
+## Hello World! 👋 I'm [Devanapalli Ruthwik!](https://github.com/Ruthwik14) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruthwik-devanapalli/) 
 
-** Hi there, I'm Devanapalli Ruthwik!**
+### Welcome to my GitHub Universe! 🌌 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Ruthwik14.Ruthwik14&style=flat-square&color=0088cc)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruthwik-devanapalli/)  [![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Ruthwik14.Ruthwik14&style=flat-square&color=0088cc)](#stats)
+🚀 I'm a cosmic data explorer, navigating through the vast expanse of information as a Business Intelligence Analyst at OFFSHOOT AGENCY PVT. LTD. My areas of interest lie in strategy consulting and project management.
 
-I'm a passionate Business Intelligence Analyst at OFFSHOOT AGENCY PVT. LTD., navigating the vast data universe with a blend of analytical prowess and creative problem-solving. My expertise lies in strategic consulting and project management, and I'm constantly expanding my horizons by exploring the potential of AI to streamline workflows and unlock hidden insights.
+🔍 Currently, I'm delving deeper into the realms of strategy consulting and project management, eager to unravel their intricacies and harness their power for innovative solutions and Exploring the latest AI tools which can significantly streamline day-to-day tasks, simplifying complex processes and enhancing efficiency
 
-** Skills & Expertise:**
+### Professional Summary
 
-* **Technical:**  [![Power BI](https://img.shields.io/badge/-Power_BI-0078D7?style=flat-square&logo=PowerBI&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-bi)  [![SQL](https://img.shields.io/badge/-SQL-007DBB?style=flat-square&logo=PostgreSQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)  [![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)  [![Excel](https://img.shields.io/badge/-Excel-20B52A?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)  [![Tableau](https://img.shields.io/badge/-Tableau-00A0E0?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/products/desktop)
-* **Analytical:** Data wrangling, data mining, data storytelling, database management, statistical modeling, machine learning, report & dashboard creation, ETL (Extract, Transform, Load), domain knowledge, cross-functional collaboration, project management, stakeholder management, agile methodologies, business acumen.
+I'm not just crunching numbers; I'm crafting narratives from data. With the wisdom of a mid-senior data analyst and the creativity of a data scientist, I transform raw data into actionable insights.
 
-** Education:**
+### Education
 
-* Accelerator Program in Business Analytics and Data Science (Oct 2023) - Hero Vired
-* Mechanical Engineering (May 2013) - Jawaharlal Nehru Technological University
+- Accelerator Program in Business Analytics and Data Science ---------------- Hero Vired, 10/2023
+- Mechanical Engineering ---------------------- Jawaharlal Nehru Technological University, 05/2013
 
-** Projects & Adventures:**
+### Certifications
 
-** Power BI:**
+- Tableau (Certification), Simplilearn, 12/2023
+- Data Visualization with Power BI (Certification), Great Learning, 12/2023
 
-* [KPMG](https://github.com/Ruthwik14/Power-BI/tree/main/Kpmg) - (Description of the project and its impact)
-* [PwC Switzerland](https://github.com/Ruthwik14/Power-BI/tree/main/PWC%20powerbi) - (Description of the project and its impact)
-* [Tata Consultancy Services (TCS)](https://github.com/Ruthwik14/Power-BI/tree/main/tata) - (Description of the project and its impact)
-* [COVID-19 World Vaccination Progress](https://github.com/Ruthwik14/Power-BI/tree/main/covid%20vaccination) - (Description of the project and its impact)
-* [Employee Retention and Satisfaction](https://github.com/Ruthwik14/Power-BI/tree/main/HR%20data) - (Description of the project and its impact)
+### Technical Skills
 
-** SQL:**
+[![Power BI](https://img.shields.io/badge/-Power_BI-0078D7?style=flat-square&logo=PowerBI&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-bi)  [![SQL](https://img.shields.io/badge/-SQL-007DBB?style=flat-square&logo=PostgreSQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)  [![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)  [![Excel](https://img.shields.io/badge/-Excel-20B52A?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)  [![Tableau](https://img.shields.io/badge/-Tableau-00A0E0?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/products/desktop)
 
-* [Digital Music Store SQL Case Study](https://github.com/Ruthwik14/SQL/tree/main/Music%20Store%20Analysis) - (Description of the project and key findings)
-* [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis) - (Description of the project and key findings)
-* [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/the%20company's%20dvd%20rental%20business) - (Description of the project and key findings)
+### Analytics Skills
 
-** Python:**
+I'm not just a data cruncher; I'm a data maestro:
 
-* [Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Turn
+ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical model /// machine learning /// Database management /// Data Mining /// Data Wrangling /// Data Governance /// Data Storytelling /// Domain Knowledge /// Cross-functional Collaboration /// Business Acumen /// Agile Methodologies /// Project Management /// Stakeholder Management.
+
+### Projects and Dev Stuffs
+
+#### Power BI
+- [KPMG](https://github.com/Ruthwik14/Power-BI/tree/main/Kpmg)
+- [PwC Switzerland](https://github.com/Ruthwik14/Power-BI/tree/main/PWC%20powerbi)
+- [Tata Consultancy Services (TCS)](https://github.com/Ruthwik14/Power-BI/tree/main/tata)
+- [COVID-19 World Vaccination Progress](https://github.com/Ruthwik14/Power-BI/tree/main/covid%20vacination)
+- [Employee Retention and Satisfaction](https://github.com/Ruthwik14/Power-BI/tree/main/HR%20data)
+
+#### SQL
+- [Digital Music Store SQL Case Study](https://github.com/Ruthwik14/SQL/tree/main/Music%20Store%20Analysis)
+- [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
+- [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/the%20company's%20dvd%20rental%20business)
+
+#### Python
+- [Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Turnkey%20Lender)
+- [Employee Attrition Case Study](https://github.com/Ruthwik14/Python/tree/main/Employee%20Attrition)
+- [RFM Analysis of Online Retail Data](https://github.com/Ruthwik14/Python/tree/main/RFM%20Analysis%20of%20online%20retail%20data)
+- [Patient Appointment No-Show Factors](https://github.com/Ruthwik14/Python/tree/main/EDA/Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
+
+
+### Connect with me!
+
+Let's embark on a data odyssey together! Feel free to reach out to me at ruthwik.devanapalli@gmail.com as we unravel the mysteries of the data universe. 🌟
