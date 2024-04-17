@@ -30,8 +30,7 @@ I speak the languages of data:
 
 I'm not just a data cruncher; I'm a data maestro:
 
-Key performance indicators (KPIs) /// ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical 
-model /// machine learning /// Database management /// DAX Queries /// Power Query 
+ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical model /// machine learning /// Database management /// Data Mining /// Data Wrangling /// Data Governance /// Data Storytelling /// Domain Knowledge /// Cross-functional Collaboration /// Business Acumen /// Agile Methodologies /// Project Management /// Stakeholder Management.
 
 ### Projects and Dev Stuffs
 
