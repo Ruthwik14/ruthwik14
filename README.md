@@ -45,10 +45,10 @@ ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical m
 - [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
 - [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/The%20Company's%20DVD%20Rental%20Business)
 
-  #### EXCEL
-- [Digital Music Store SQL Case Study](https://github.com/Ruthwik14/SQL/tree/main/Digital%20Music%20Store%20SQL%20Case%20Study)
-- [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
-- [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/The%20Company's%20DVD%20Rental%20Business)
+#### EXCEL
+- [Call Center Dash Board](https://github.com/Ruthwik14/Excel/tree/main/Call%20Center%20Dash%20Board)
+- [mortgage - Data Analysis Problem Statement and Solution.xlsx](https://github.com/Ruthwik14/Excel/blob/main/mortgage%20-%20Data%20Analysis%20Problem%20Statement%20and%20Solution.xlsx)
+- [supermarket_sales - Data Analysis Problem Statement and Solution.xlsx](https://github.com/Ruthwik14/Excel/blob/main/supermarket_sales%20-%20Data%20Analysis%20Problem%20Statement%20and%20Solution.xlsx)
 
 #### Python
 - [Credit card default for HV Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Credit%20card%20default%20for%20HV%20Turnkey%20Lender)
