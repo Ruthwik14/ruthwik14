@@ -45,11 +45,16 @@ ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical m
 - [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
 - [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/The%20Company's%20DVD%20Rental%20Business)
 
+  #### EXCEL
+- [Digital Music Store SQL Case Study](https://github.com/Ruthwik14/SQL/tree/main/Digital%20Music%20Store%20SQL%20Case%20Study)
+- [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
+- [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/The%20Company's%20DVD%20Rental%20Business)
+
 #### Python
-- [Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Turnkey%20Lender)
-- [Employee Attrition Case Study](https://github.com/Ruthwik14/Python/tree/main/Employee%20Attrition)
-- [RFM Analysis of Online Retail Data](https://github.com/Ruthwik14/Python/tree/main/RFM%20Analysis%20of%20online%20retail%20data)
-- [Patient Appointment No-Show Factors](https://github.com/Ruthwik14/Python/tree/main/EDA/Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
+- [Credit card default for HV Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Credit%20card%20default%20for%20HV%20Turnkey%20Lender)
+- [Employee Attrition Case Study](https://github.com/Ruthwik14/Python/tree/main/Employee%20Attrition%20Case%20Study)
+- [RFM Analysis of online retail store](https://github.com/Ruthwik14/Python/tree/main/RFM%20Analysis%20of%20online%20retail%20store)
+- [Patient Appointment No Show Factors, EDA, Analysis](https://github.com/Ruthwik14/Python/tree/main/Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
 
 
 ### Connect with me!
