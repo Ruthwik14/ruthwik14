@@ -33,16 +33,17 @@ ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical m
 ### Projects and Dev Stuffs
 
 #### Power BI
-- [KPMG](https://github.com/Ruthwik14/Power-BI/tree/main/Kpmg)
-- [PwC Switzerland](https://github.com/Ruthwik14/Power-BI/tree/main/PWC%20powerbi)
-- [Tata Consultancy Services (TCS)](https://github.com/Ruthwik14/Power-BI/tree/main/tata)
+- [KPMG - Unleashing Insights and Strategies for Sprocket Central's Success]([https://github.com/Ruthwik14/Power-BI/tree/main/Kpmg](https://github.com/Ruthwik14/Power-BI/tree/main/KPMG%20%20-%20Unleashing%20Insights%20and%20Strategies%20for%20Sprocket%20Central's%20Success))
+- [PWC - Transformative Power BI Dashboards for Enhanced Business Insights](https://github.com/Ruthwik14/Power-BI/tree/main/PWC%20-%20Transformative%20Power%20BI%20Dashboards%20for%20Enhanced%20Business%20Insights)
+- [TATA - Online Retail Dataset](https://github.com/Ruthwik14/Power-BI/tree/main/TATA%20-%20Online%20Retail%20Dataset)
 - [COVID-19 World Vaccination Progress](https://github.com/Ruthwik14/Power-BI/tree/main/covid%20vacination)
-- [Employee Retention and Satisfaction](https://github.com/Ruthwik14/Power-BI/tree/main/HR%20data)
-
+- [HR Dataset - Employee retention and satisfaction](https://github.com/Ruthwik14/Power-BI/tree/main/HR%20Dataset%20-%20Employee%20retention%20and%20satisfaction)
+- [HR Data - turnover](https://github.com/Ruthwik14/Power-BI/tree/main/HR%20Data%20-%20turnover)
+  
 #### SQL
-- [Digital Music Store SQL Case Study](https://github.com/Ruthwik14/SQL/tree/main/Music%20Store%20Analysis)
+- [Digital Music Store SQL Case Study](https://github.com/Ruthwik14/SQL/tree/main/Digital%20Music%20Store%20SQL%20Case%20Study)
 - [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
-- [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/the%20company's%20dvd%20rental%20business)
+- [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/The%20Company's%20DVD%20Rental%20Business)
 
 #### Python
 - [Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Turnkey%20Lender)
