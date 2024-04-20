@@ -47,8 +47,8 @@ ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical m
 
 #### EXCEL
 - [Call Center Dash Board](https://github.com/Ruthwik14/Excel/tree/main/Call%20Center%20Dash%20Board)
-- [mortgage - Data Analysis Problem Statement and Solution.xlsx](https://github.com/Ruthwik14/Excel/blob/main/mortgage%20-%20Data%20Analysis%20Problem%20Statement%20and%20Solution.xlsx)
-- [supermarket_sales - Data Analysis Problem Statement and Solution.xlsx](https://github.com/Ruthwik14/Excel/blob/main/supermarket_sales%20-%20Data%20Analysis%20Problem%20Statement%20and%20Solution.xlsx)
+- [mortgage - Data Analysis Problem Statement and Solution.xlsx](https://github.com/Ruthwik14/Excel/tree/main/mortgage%20-%20Data%20Analysis%20Problem%20Statement%20and%20Solution)
+- [supermarket_sales - Data Analysis Problem Statement and Solution.xlsx](https://github.com/Ruthwik14/Excel/tree/main/supermarket_sales%20-%20Data%20Analysis%20Problem%20Statement%20and%20Solution)
 
 #### Python
 - [Credit card default for HV Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Credit%20card%20default%20for%20HV%20Turnkey%20Lender)
