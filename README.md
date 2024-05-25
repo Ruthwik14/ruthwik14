@@ -2,13 +2,9 @@
 
 ### Welcome to my GitHub Universe! 🌌 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Ruthwik14.Ruthwik14&style=flat-square&color=0088cc)
 
-🚀 I'm a cosmic data explorer, navigating through the vast expanse of information as a Business Intelligence Analyst at OFFSHOOT AGENCY PVT. LTD. My areas of interest lie in strategy consulting and project management.
+🚀 I'm a cosmic data explorer,Experienced data professional skilled in collecting, cleaning, and preprocessing datasets, conducting Exploratory Data Analysis (EDA), establishing trends and key performance indicators (KPIs), and transforming raw data into meaningful insights. Proficient in building reports and dashboards, and developing predictive models. Advanced in Excel, SQL, Python, Tableau, and Power BI. Possesses strong knowledge in statistics, machine learning, data modeling, ETL, data mining, and data warehousing. Demonstrates excellent analytical, problem-solving, and communication skills. Proven ability in cross-functional collaboration and stakeholder management.
 
 🔍 Currently, I'm delving deeper into the realms of strategy consulting and project management, eager to unravel their intricacies and harness their power for innovative solutions and Exploring the latest AI tools which can significantly streamline day-to-day tasks, simplifying complex processes and enhancing efficiency
-
-### Professional Summary
-
-I'm not just crunching numbers; I'm crafting narratives from data. With the wisdom of a mid-senior data analyst and the creativity of a data scientist, I transform raw data into actionable insights.
 
 ### Education
 
@@ -26,9 +22,13 @@ I'm not just crunching numbers; I'm crafting narratives from data. With the wisd
 
 ### Analytics Skills
 
-I'm not just a data cruncher; I'm a data maestro:
+- **Power BI:** Expertise in Power BI Desktop, DAX, Power Query, report generation, dashboard building, Power BI Service, Row Level Security, Power BI Gateway, and PowerApps.
+- **SQL:** Skilled in data extraction and manipulation, complex queries, subqueries, joins, CTEs, windows, and aggregate functions.
+- **Excel:** Proficient with pivot tables, pivot charts, lookup functions, Power Query, various Excel functions, and advanced Excel.
+- **Python:** Proficient in variables, data types, conditional statements, loops, data structures, functions, string manipulation, file handling, NumPy, Pandas, Matplotlib, and Seaborn.
+- **Tableau:** Experienced in connecting data sources, data preparation, building basic and advanced visualizations, performing calculations, and building dashboards.
+- **Additional Skills:** Statistics, Machine learning.
 
-ETL (Extract, Transform, Load) /// Report & Dashboard Creation /// Statistical model /// machine learning /// Database management /// Data Mining /// Data Wrangling /// Data Governance /// Data Storytelling /// Domain Knowledge /// Cross-functional Collaboration /// Business Acumen /// Agile Methodologies /// Project Management /// Stakeholder Management.
 
 ### Projects and Dev Stuffs
 
