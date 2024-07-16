@@ -30,12 +30,13 @@ With a proven ability in cross-functional collaboration and stakeholder manageme
 
 ### 📈 Analytics Skills
 
-- **Power BI:** Expertise in Power BI Desktop, DAX, Power Query, report generation, dashboard building, Power BI Service, Row Level Security, Power BI Gateway, and PowerApps.
-- **SQL:** Skilled in data extraction and manipulation, complex queries, subqueries, joins, CTEs, windows, and aggregate functions.
-- **Excel:** Proficient with pivot tables, pivot charts, lookup functions, Power Query, various Excel functions, and advanced Excel.
-- **Python:** Proficient in variables, data types, conditional statements, loops, data structures, functions, string manipulation, file handling, NumPy, Pandas, Matplotlib, and Seaborn.
-- **Tableau:** Experienced in connecting data sources, data preparation, building basic and advanced visualizations, performing calculations, and building dashboards.
-- **Additional Skills:** Statistics, Machine learning.
+•	**Power BI**: Expertise in Power BI Desktop, DAX, Power Query, report generation, data visualization, dashboard building,Power BI Service, Row Level Security, Power BI Gateway.
+•	**Python**:   Proficient in variables, data types, conditional statements, loops, data structures, functions, string manipulation file handling, NumPy, Pandas, Matplotlib, and Seaborn.
+•	**SQL**:      Skilled in data extraction and manipulation, SQL Queries, ETL, joins, CTEs, windows, and aggregate functions.
+•	**Excel**:    proficient with pivot tables, Pivot charts, lookup functions, Power Query, various Excel functions, vlookup, advanced Excel, Conditional Formatting, and data visualization.
+•	**Tableau**:  Experienced in connecting data sources, data preparation, building basic and advanced visualizations, data visualization, performing calculations, and building dashboards.
+•	**Additional Skills**:    Agile, AB testing, data mining, Data validation, big data, data warehousing, Data processing, Data Management, data manipulation, Data Modeling, Data Reporting, Statistics, Machine learning, and Data science.
+
 
 ### 🛠️ Projects and Dev Stuffs
 
