@@ -2,9 +2,13 @@
 
 ### Welcome to my GitHub Universe! 🌌 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Ruthwik14.Ruthwik14&style=flat-square&color=0088cc)
 
-🚀 I'm a cosmic data explorer, an experienced data professional skilled in collecting, cleaning, and preprocessing datasets, conducting Exploratory Data Analysis (EDA), establishing trends and key performance indicators (KPIs), and transforming raw data into meaningful insights. Proficient in building reports and dashboards, and developing predictive models. Advanced in Excel, SQL, Python, Tableau, and Power BI. Possess strong knowledge in statistics, machine learning, data modeling, ETL, data mining, and data warehousing. Demonstrate excellent analytical, problem-solving, and communication skills. Proven ability in cross-functional collaboration and stakeholder management.
+🚀 I'm a cosmic data explorer, a detail-oriented and results-driven Data Analyst with 7 years of experience spanning manufacturing, design, and service sectors, and the last 3 years dedicated to business intelligence. As an experienced data professional, I am skilled in collecting, cleaning, and preprocessing datasets, conducting Exploratory Data Analysis (EDA), establishing trends and key performance indicators (KPIs), and transforming raw data into meaningful insights.
 
-🔍 Currently, I'm delving deeper into the realms of strategy consulting and project management, eager to unravel their intricacies and harness their power for innovative solutions. Exploring the latest AI tools can significantly streamline day-to-day tasks, simplify complex processes, and enhance efficiency.
+I am proficient in building reports and dashboards and developing predictive models. I have proven expertise in leveraging analytical tools such as Power BI, Python, SQL, Excel, and Tableau to enhance business performance, drive decision-making, and achieve strategic goals. I possess strong knowledge in statistics, machine learning, data modeling, ETL, data mining, and data warehousing, and I demonstrate excellent analytical, problem-solving, and communication skills.
+
+With a proven ability in cross-functional collaboration and stakeholder management, I have demonstrated success in improving operational efficiency, customer satisfaction, and sales performance through data-driven solutions.
+
+🔍 Currently, I am delving deeper into the realms of strategy consulting and project management, eager to unravel their intricacies and harness their power for innovative solutions. Exploring the latest AI tools can significantly streamline day-to-day tasks, simplify complex processes, and enhance efficiency.
 
 ### 🎓 Education
 
