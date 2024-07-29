@@ -27,16 +27,8 @@ With a proven ability in cross-functional collaboration and stakeholder manageme
 - ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=white) **Python**
 - ![Excel](https://img.shields.io/badge/-Excel-20B52A?style=flat-square&logo=microsoft&logoColor=white) **Excel**
 - ![Tableau](https://img.shields.io/badge/-Tableau-00A0E0?style=flat-square&logo=Tableau&logoColor=white) **Tableau**
-
-### 📈 Analytics Skills
-
--	**Power BI**: Expertise in Power BI Desktop, DAX, Power Query, report generation, data visualization, dashboard building,Power BI Service, Row Level Security, Power BI Gateway.
--	**Python**:   Proficient in variables, data types, conditional statements, loops, data structures, functions, string manipulation file handling, NumPy, Pandas, Matplotlib, and Seaborn.
--	**SQL**:      Skilled in data extraction and manipulation, SQL Queries, ETL, joins, CTEs, windows, and aggregate functions.
--	**Excel**:    proficient with pivot tables, Pivot charts, lookup functions, Power Query, various Excel functions, vlookup, advanced Excel, Conditional Formatting, and data visualization.
--	**Tableau**:  Experienced in connecting data sources, data preparation, building basic and advanced visualizations, data visualization, performing calculations, and building dashboards.
--	**Additional Skills**:    Agile, AB testing, data mining, Data validation, big data, data warehousing, Data processing, Data Management, data manipulation, Data Modeling, Data Reporting, Statistics, Machine learning, and Data science.
-
+- VBA
+- MAcros
 
 ### 🛠️ Projects and Dev Stuffs
 
