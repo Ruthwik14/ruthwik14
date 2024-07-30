@@ -4,7 +4,7 @@
 
 🚀 I'm a cosmic data explorer, a detail-oriented and results-driven Data Analyst with 7 years of experience spanning manufacturing, insurance, and finance sectors, and the last 3 years dedicated to business consultent(data analyst). As an experienced data professional, I am skilled in collecting, cleaning, and preprocessing datasets, conducting Exploratory Data Analysis (EDA), establishing trends and key performance indicators (KPIs), and transforming raw data into meaningful insights.
 
-I am proficient in building reports and dashboards and developing predictive models. I have proven expertise in leveraging analytical tools such as Power BI, Python, SQL, advance Excel, macros , VBA and Tableau to enhance business performance, drive decision-making, and achieve strategic goals. I possess strong knowledge in statistics, machine learning, data modeling, ETL, data mining, and data warehousing, and I demonstrate excellent analytical, problem-solving, and communication skills.
+I am proficient in building reports and dashboards and developing predictive models. I have proven expertise in leveraging analytical tools such as Power BI, Python, SQL, advance Excel, macros , VBA and Tableau to enhance business performance, drive decision-making, and achieve strategic goals. I possess strong knowledge in statistics, machine learning, data modeling, data mining, and data warehousing, and I demonstrate excellent analytical, problem-solving, and communication skills.
 
 With a proven ability in cross-functional collaboration and stakeholder management, I have demonstrated success in improving operational efficiency, customer satisfaction, and sales performance through data-driven solutions.
 
