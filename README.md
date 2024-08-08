@@ -2,13 +2,13 @@
 
 ### Welcome to my GitHub Universe! 🌌 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Ruthwik14.Ruthwik14&style=flat-square&color=0088cc)
 
-🚀 I am a detail-oriented and results-driven Data Analyst with 7 years of experience spanning manufacturing, insurance, and finance sectors, and the past 3 years dedicated to business consulting. My expertise lies in transforming raw data into actionable insights through advanced analytical tools such as Power BI, Python, SQL, Excel (including macros and VBA), and Tableau. I excel in data collection, cleaning, preprocessing, exploratory data analysis (EDA), hypothesis testing, and KPI establishment, all aimed at enhancing business performance and strategic decision-making. 
 
-During my tenure as a Data Analyst at Offshoot Agency Pvt. Ltd., I conducted ad-hoc analyses, developed comprehensive sales reports, and created interactive dashboards. My work provided key performance indicators (KPIs) and actionable insights that facilitated data-driven decisions in the finance loan sector. I successfully streamlined data collection procedures, resulting in an 18% increase in overall process performance, while also improving client relations with an 80% customer contact rate and achieving a 15% increase in quarterly sales targets.
+🚀 I am a detail-oriented and results-driven Data Analyst with 7 years of experience spanning manufacturing, insurance, and finance sectors, and the past 3 years dedicated to business consulting. My expertise lies in transforming raw data into actionable insights through advanced analytical tools such as Power BI, Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, Excel (including macros and VBA), and Tableau. I excel in data collection, cleaning, preprocessing, exploratory data analysis (EDA), hypothesis testing, and KPI establishment, all aimed at enhancing business performance and strategic decision-making. My strong analytical thinking, critical thinking, and proficiency in statistics, machine learning, and data science further support my capability to drive impactful outcomes.
 
-Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed complaint data, reducing enquiry resolution times by 15% and improving complaint resolution by 20%, which enhanced overall customer satisfaction.I hold an Accelerator Program certification in Business Analytics and Data Science from Hero Vired (October 2023) and certifications in Data Visualization with Power BI from Great Learning (December 2023) and Tableau from Simplilearn (December 2023). I also hold a degree in Mechanical Engineering from Jawaharlal Nehru Technological University (May 2013). 
+During my tenure as a Business Consultant at Offshoot Agency Pvt. Ltd., I leveraged cross-functional collaboration to conduct ad-hoc analyses, develop comprehensive sales reports, and create interactive dashboards. My work provided key performance indicators (KPIs) and actionable insights that facilitated data-driven decisions in the finance loan sector. I successfully streamlined data collection procedures, resulting in an 18% increase in overall process performance, while also improving client relations with an 80% customer contact rate and achieving a 15% increase in quarterly sales targets.
 
-🔍 Currently, I am delving deeper into the realms of strategy consulting and project management, eager to unravel their intricacies and harness their power for innovative solutions. Exploring the latest AI tools can significantly streamline day-to-day tasks, simplify complex processes, and enhance efficiency.
+Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed complaint data with critical thinking and analytical precision, reducing enquiry resolution times by 15% and improving complaint resolution by 20%, which enhanced overall customer satisfaction with Good communication and cross funtion collabration.
+
 
 ### 🎓 Education
 
@@ -59,6 +59,8 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 - [Employee Attrition Case Study](https://github.com/Ruthwik14/Python/tree/main/Employee%20Attrition%20Case%20Study)
 - [RFM Analysis of online retail store](https://github.com/Ruthwik14/Python/tree/main/RFM%20Analysis%20of%20online%20retail%20store)
 - [Patient Appointment No Show Factors, EDA, Analysis](https://github.com/Ruthwik14/Python/tree/main/Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
+
+🔍 Currently, I am delving deeper into strategy consulting, machine learning, and data science , eager to unravel their intricacies and harness their power for innovative solutions. Exploring the latest AI tools can significantly streamline day-to-day tasks, simplify complex processes, and enhance efficiency.
 
 ### 📞 Connect with me!
 
