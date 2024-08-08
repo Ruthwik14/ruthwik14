@@ -7,7 +7,7 @@
 
 During my tenure as a Business Consultant at Offshoot Agency Pvt. Ltd., I leveraged cross-functional collaboration to conduct ad-hoc analyses, develop comprehensive sales reports, and create interactive dashboards. My work provided key performance indicators (KPIs) and actionable insights that facilitated data-driven decisions in the finance loan sector. I successfully streamlined data collection procedures, resulting in an 18% increase in overall process performance, while also improving client relations with an 80% customer contact rate and achieving a 15% increase in quarterly sales targets.
 
-Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed complaint data with critical thinking and analytical precision, reducing enquiry resolution times by 15% and improving complaint resolution by 20%, which enhanced overall customer satisfaction with Good communication and cross funtion collabration.
+Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed complaint data, reducing enquiry resolution times by 15% and improving complaint resolution by 20%, which enhanced overall customer satisfaction with Good communication and cross funtion collabration.
 
 
 ### 🎓 Education
