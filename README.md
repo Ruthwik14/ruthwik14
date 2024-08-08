@@ -5,18 +5,18 @@
 
 🚀 I am a detail-oriented and results-driven Data Analyst with 7 years of experience spanning manufacturing, insurance, and finance sectors, and the past 3 years dedicated to business consulting. My expertise lies in transforming raw data into actionable insights through advanced analytical tools such as Power BI, Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, Excel (including macros and VBA), and Tableau. I excel in data collection, cleaning, preprocessing, exploratory data analysis (EDA), Hypothesis testing, and KPI establishment, all aimed at enhancing business performance and strategic decision-making. My strong analytical thinking, critical thinking, and proficiency in statistics, machine learning, and data science further support my capability to drive impactful outcomes.
 
-During my tenure as a Business Consultant at Offshoot Agency Pvt. Ltd., I leveraged cross-functional collaboration to conduct ad-hoc analyses, develop comprehensive sales reports, and create interactive dashboards. My work provided key performance indicators (KPIs) and actionable insights that facilitated data-driven decisions in the finance loan sector. I successfully streamlined data collection procedures, resulting in an 18% increase in overall process performance, while also improving client relations with an 80% customer contact rate and achieving a 15% increase in quarterly sales targets.
+As a Business Consultant at Offshoot Agency Pvt. Ltd., I conducted ad-hoc analyses and developed sales reports and interactive dashboards to provide actionable insights and KPIs for the finance loan sector. I streamlined data collection from various sources, improving process efficiency, and enhanced client relations, achieving an 80% customer contact rate and a 15% increase in quarterly sales targets. My use of Excel and VBA for Training Needs Identification and Bottom Quartile Management further optimized workforce performance.
 
 Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed complaint data, reducing enquiry resolution times by 15% and improving complaint resolution by 20%, which enhanced overall customer satisfaction with Good communication and cross funtion collabration.
 
-
 ### 🎓 Education
 
-- 📊 **Accelerator Program in Business Analytics and Data Science** — Hero Vired, 10/2023
 - 🛠️ **Mechanical Engineering** — Jawaharlal Nehru Technological University, 05/2013
+
 
 ### 📜 Certifications
 
+- 📊 **Accelerator Program in Business Analytics and Data Science** — Hero Vired, 10/2023
 - ![Tableau](https://img.shields.io/badge/-Tableau-00A0E0?style=flat-square&logo=Tableau&logoColor=white) **Tableau** — Simplilearn, 12/2023
 - ![Power BI](https://img.shields.io/badge/-Power_BI-0078D7?style=flat-square&logo=PowerBI&logoColor=white) **Data Visualization with Power BI** — Great Learning, 12/2023
 
