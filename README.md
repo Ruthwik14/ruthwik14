@@ -43,7 +43,7 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 
 #### 🗄️ SQL
 
-- [Comprehensive Sales Analysis of a Digital Music Store ](https://github.com/Ruthwik14/SQL/blob/main/Comprehensive%20Sales%20Analysis%20of%20a%20Digital%20Music%20Store)
+- [Comprehensive Sales Analysis of a Digital Music Store ](https://github.com/Ruthwik14/SQL/tree/main/Digital%20Music%20Store%20SQL%20Case%20Study)
 - [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
 - [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/The%20Company's%20DVD%20Rental%20Business)
 
