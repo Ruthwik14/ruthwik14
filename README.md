@@ -65,6 +65,12 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 - [**RFM Analysis of online retail store**](https://github.com/Ruthwik14/Python-Sample-Projects/tree/main/6%20RFM%20Analysis%20of%20online%20retail%20store)
 - [**Patient Appointment No Show Factors, EDA, Analysis**](https://github.com/Ruthwik14/Python-Sample-Projects/tree/main/5%20Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
 
+  ### 🧩 Practical Business Case Studies
+
+- [**ANT-RPS Analytics – Employee Attrition Case Study**](https://github.com/Ruthwik14/Practical-Business-Case-Study/tree/main/1%20ANT-RPS_Analytics-Employee%20Attrition%20Case%20Study)  
+- [**Mind Matrix Analytics – MMA Customer Retention**](https://github.com/Ruthwik14/Practical-Business-Case-Study/tree/main/2%20Mind%20Matrix%20Analytics-%20MMA-%20Customer%20retention) 
+- [**Office Supplies Case Study**](https://github.com/Ruthwik14/Practical-Business-Case-Study/tree/main/3%20Office_Supplies_Case_Study)  
+- [**Vassar Analytics – Super Mart Case Study Data**](https://github.com/Ruthwik14/Practical-Business-Case-Study/tree/main/4%20Vassar%20Analytics%20-%20Super%20Mart%20Case%20Study%20Data)  
   
 
 🔍 Currently, I am delving deeper into strategy consulting, machine learning, and data science , eager to unravel their intricacies and harness their power for innovative solutions. Exploring the latest AI tools can significantly streamline day-to-day tasks, simplify complex processes, and enhance efficiency.
