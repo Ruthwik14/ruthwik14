@@ -31,14 +31,24 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 - ![Tableau](https://img.shields.io/badge/-Tableau-00A0E0?style=flat-square&logo=Tableau&logoColor=white) **Tableau**
 - ![VBA]
 - ![MAcros] 
-- ![automation using Python] 
+- ![automation using Python]
+
+  ### 💻 Technical Skills
+
+- ![Power BI](https://img.shields.io/badge/-Power_BI-0078D7?style=flat-square&logo=PowerBI&logoColor=white) **Power BI** (DAX, Power Query, Row-Level Security, Service)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) **SQL** (MySQL, PostgreSQL)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) **Python** (Pandas, NumPy, Seaborn, Matplotlib, PyMC, Automation)
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white) **Excel** (Advanced Formulas, Dashboards, Pivot Tables)
+- ![VBA](https://img.shields.io/badge/-VBA-178600?style=flat-square&logo=visual-basic&logoColor=white) **VBA & Macros** (Automation, TNI/BQM Reports)
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) **Tableau**
+- ![Automation](https://img.shields.io/badge/-Python%20Automation-5A9FD4?style=flat-square&logo=automation&logoColor=white) **Process Automation using Python**
+
 
 ### 🛠️ Projects and Dev Stuffs
 
 #### 📊 Power BI
 
--
-- [**Chatbot Journey Insights Dashboard**]([https://github.com/Ruthwik14/Power-BI/tree/main/ChatBot%20Journey%20Insights%20and%20Performance%20Dashboard](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/1%20ChatBot%20Journey%20Insights%20and%20Performance%20Dashboard))  
+- [**Chatbot Journey Insights Dashboard**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/1%20ChatBot%20Journey%20Insights%20and%20Performance%20Dashboard))  
 - [**KPMG - Marketing Analytics and Strategy Optimization Project for Sprocket Central's Success**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/3%20KPMG%20%20-%20Unleashing%20Insights%20and%20Strategies%20for%20Sprocket%20Central's%20Success)
 - [**PWC - Transformative Power BI Dashboards for Enhanced Business Insights**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/2%20PWC%20-%20Transformative%20Power%20BI%20Dashboards%20for%20Enhanced%20Business%20Insights)
 - [**TATA - Online Retail Dataset**](https://github.com/Ruthwik14/Power-BI/tree/main/TATA%20-%20Online%20Retail%20Dataset)
