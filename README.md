@@ -29,9 +29,9 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 - ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=white) **Python**
 - ![Excel](https://img.shields.io/badge/-Excel-20B52A?style=flat-square&logo=microsoft&logoColor=white) **Excel**
 - ![Tableau](https://img.shields.io/badge/-Tableau-00A0E0?style=flat-square&logo=Tableau&logoColor=white) **Tableau**
-- VBA
-- MAcros
-- automation using python
+- ![VBA]
+- ![MAcros] 
+- ![automation using Python] 
 
 ### 🛠️ Projects and Dev Stuffs
 
