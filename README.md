@@ -24,17 +24,6 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 
 ### 💻 Technical Skills
 
-- ![Power BI](https://img.shields.io/badge/-Power_BI-0078D7?style=flat-square&logo=PowerBI&logoColor=white) **Power BI**
-- ![SQL](https://img.shields.io/badge/-SQL-007DBB?style=flat-square&logo=PostgreSQL&logoColor=white) **SQL**
-- ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=Python&logoColor=white) **Python**
-- ![Excel](https://img.shields.io/badge/-Excel-20B52A?style=flat-square&logo=microsoft&logoColor=white) **Excel**
-- ![Tableau](https://img.shields.io/badge/-Tableau-00A0E0?style=flat-square&logo=Tableau&logoColor=white) **Tableau**
-- ![VBA]
-- ![MAcros] 
-- ![automation using Python]
-
-  ### 💻 Technical Skills
-
 - ![Power BI](https://img.shields.io/badge/-Power_BI-0078D7?style=flat-square&logo=PowerBI&logoColor=white) **Power BI** (DAX, Power Query, Row-Level Security, Service)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) **SQL** (MySQL, PostgreSQL)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) **Python** (Pandas, NumPy, Seaborn, Matplotlib, PyMC, Automation)
