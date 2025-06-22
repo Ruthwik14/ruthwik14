@@ -38,33 +38,33 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 #### 📊 Power BI
 
 -
-- [**Chatbot Journey Insights Dashboard**](https://github.com/Ruthwik14/Power-BI/tree/main/ChatBot%20Journey%20Insights%20and%20Performance%20Dashboard)  
-- [KPMG - Marketing Analytics and Strategy Optimization Project for Sprocket Central's Success](https://github.com/Ruthwik14/Power-BI/tree/main/KPMG%20%20-%20Unleashing%20Insights%20and%20Strategies%20for%20Sprocket%20Central's%20Success)
-- [PWC - Transformative Power BI Dashboards for Enhanced Business Insights](https://github.com/Ruthwik14/Power-BI/tree/main/PWC%20-%20Transformative%20Power%20BI%20Dashboards%20for%20Enhanced%20Business%20Insights)
-- [TATA - Online Retail Dataset](https://github.com/Ruthwik14/Power-BI/tree/main/TATA%20-%20Online%20Retail%20Dataset)
-- [COVID-19 World Vaccination Progress](https://github.com/Ruthwik14/Power-BI/tree/main/covid%20vacination)
-- [HR Dataset - Employee retention and satisfaction](https://github.com/Ruthwik14/Power-BI/tree/main/HR%20Dataset%20-%20Employee%20retention%20and%20satisfaction)
-- [HR Data - turnover](https://github.com/Ruthwik14/Power-BI/tree/main/HR%20Data%20-%20turnover)
+- [**Chatbot Journey Insights Dashboard**]([https://github.com/Ruthwik14/Power-BI/tree/main/ChatBot%20Journey%20Insights%20and%20Performance%20Dashboard](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/1%20ChatBot%20Journey%20Insights%20and%20Performance%20Dashboard))  
+- [**KPMG - Marketing Analytics and Strategy Optimization Project for Sprocket Central's Success**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/3%20KPMG%20%20-%20Unleashing%20Insights%20and%20Strategies%20for%20Sprocket%20Central's%20Success)
+- [**PWC - Transformative Power BI Dashboards for Enhanced Business Insights**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/2%20PWC%20-%20Transformative%20Power%20BI%20Dashboards%20for%20Enhanced%20Business%20Insights)
+- [**TATA - Online Retail Dataset**](https://github.com/Ruthwik14/Power-BI/tree/main/TATA%20-%20Online%20Retail%20Dataset)
+- [**COVID-19 World Vaccination Progress**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/4%20Covid%20vacination)
+- [**HR Dataset - Employee retention and satisfaction**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/5%20HR%20Dataset%20-%20Employee%20retention%20and%20satisfaction)
+- [**HR Data - turnover**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/7%20TATA%20-%20Online%20Retail%20Dataset)
 
 #### 🗄️ SQL
 
-- [Comprehensive Sales Analysis of a Digital Music Store ](https://github.com/Ruthwik14/SQL/tree/main/Digital%20Music%20Store%20SQL%20Case%20Study)
-- [Balanced Tree Clothing Company Sales Analysis](https://github.com/Ruthwik14/SQL/tree/main/Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
-- [The Company's DVD Rental Business](https://github.com/Ruthwik14/SQL/tree/main/The%20Company's%20DVD%20Rental%20Business)
+- [**Digital Music Store SQL Case Study** ](https://github.com/Ruthwik14/SQL-Sample-Projects/tree/main/2%20Digital%20Music%20Store%20SQL%20Case%20Study)
+- [**Balanced Tree Clothing Company Sales Analysis**](https://github.com/Ruthwik14/SQL-Sample-Projects/tree/main/1%20Balanced%20Tree%20Clothing%20Company%20Sales%20Analysis)
+- [**The Company's DVD Rental Business**](https://github.com/Ruthwik14/SQL-Sample-Projects/tree/main/3%20The%20Company's%20DVD%20Rental%20Business)
 
-#### 📊 EXCEL
+#### 📊 ADVANCE EXCEL
 
-- [Call Center Dash Board](https://github.com/Ruthwik14/Excel/tree/main/Call%20Center%20Dash%20Board)
-- [mortgage - Data Analysis Problem Statement and Solution.xlsx](https://github.com/Ruthwik14/Excel/tree/main/mortgage%20-%20Data%20Analysis%20Problem%20Statement%20and%20Solution)
-- [supermarket_sales - Data Analysis Problem Statement and Solution.xlsx](https://github.com/Ruthwik14/Excel/tree/main/supermarket_sales%20-%20Data%20Analysis%20Problem%20Statement%20and%20Solution)
+- [**Customer Service Analytics Dashboard for E-commerce Company**](https://github.com/Ruthwik14/Advance-Excel-Sample-Projects/tree/main/1%20Customer%20Service%20Analytics%20Dashboard%20for%20E-commerce%20Company)
+- [**Home Equity Loan Insights Analyzing Defaults and Strategies**](https://github.com/Ruthwik14/Advance-Excel-Sample-Projects/tree/main/2%20Home%20Equity%20Loan%20Insights%20Analyzing%20Defaults%20and%20Strategies)
+- [**Supermarket Sales Analytics Driving Growth and Insights**](https://github.com/Ruthwik14/Advance-Excel-Sample-Projects/tree/main/3%20Supermarket%20Sales%20Analytics%20Driving%20Growth%20and%20Insights)
 
 #### 🐍 Python
 
-- [**US Statewise Opinion Modeling (Bayesian)**](https://github.com/Ruthwik14/Python/tree/main/US%20Statewise%20Public%20Opinion%20Bayesian%20Model)  
-- [Credit card default for HV Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Credit%20card%20default%20for%20HV%20Turnkey%20Lender)
-- [Employee Attrition Case Study](https://github.com/Ruthwik14/Python/tree/main/Employee%20Attrition%20Case%20Study)
-- [RFM Analysis of online retail store](https://github.com/Ruthwik14/Python/tree/main/RFM%20Analysis%20of%20online%20retail%20store)
-- [Patient Appointment No Show Factors, EDA, Analysis](https://github.com/Ruthwik14/Python/tree/main/Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
+- [**Bayesian Hierarchical Insights Dashboard**](https://github.com/Ruthwik14/Python-Sample-Projects/tree/main/1%20Bayesian%20Hierarchical%20Insights%20Dashboard)  
+- [**Credit card default for HV Turnkey Lender**](https://github.com/Ruthwik14/Python-Sample-Projects/tree/main/3%20Credit%20card%20default%20for%20HV%20Turnkey%20Lender)
+- [**Employee Attrition Case Study**](https://github.com/Ruthwik14/Python-Sample-Projects/tree/main/4%20Employee%20Attrition%20Case%20Study)
+- [**RFM Analysis of online retail store**](https://github.com/Ruthwik14/Python-Sample-Projects/tree/main/6%20RFM%20Analysis%20of%20online%20retail%20store)
+- [**Patient Appointment No Show Factors, EDA, Analysis**](https://github.com/Ruthwik14/Python-Sample-Projects/tree/main/5%20Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
 
 🔍 Currently, I am delving deeper into strategy consulting, machine learning, and data science , eager to unravel their intricacies and harness their power for innovative solutions. Exploring the latest AI tools can significantly streamline day-to-day tasks, simplify complex processes, and enhance efficiency.
 
