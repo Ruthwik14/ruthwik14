@@ -40,10 +40,10 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 - [**Chatbot Journey Insights Dashboard**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/1%20ChatBot%20Journey%20Insights%20and%20Performance%20Dashboard) 
 - [**KPMG - Marketing Analytics and Strategy Optimization Project for Sprocket Central's Success**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/3%20KPMG%20%20-%20Unleashing%20Insights%20and%20Strategies%20for%20Sprocket%20Central's%20Success)
 - [**PWC - Transformative Power BI Dashboards for Enhanced Business Insights**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/2%20PWC%20-%20Transformative%20Power%20BI%20Dashboards%20for%20Enhanced%20Business%20Insights)
-- [**TATA - Online Retail Dataset**](https://github.com/Ruthwik14/Power-BI/tree/main/TATA%20-%20Online%20Retail%20Dataset)
+- [**TATA - Online Retail Dataset**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/7%20TATA%20-%20Online%20Retail%20Dataset)
 - [**COVID-19 World Vaccination Progress**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/4%20Covid%20vacination)
 - [**HR Dataset - Employee retention and satisfaction**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/5%20HR%20Dataset%20-%20Employee%20retention%20and%20satisfaction)
-- [**HR Data - turnover**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/7%20TATA%20-%20Online%20Retail%20Dataset)
+- [**HR Data - turnover**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/6%20HR%20Data%20-%20turnover)
 
 #### 🗄️ SQL
 
@@ -64,6 +64,8 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 - [**Employee Attrition Case Study**](https://github.com/Ruthwik14/Python-Sample-Projects/tree/main/4%20Employee%20Attrition%20Case%20Study)
 - [**RFM Analysis of online retail store**](https://github.com/Ruthwik14/Python-Sample-Projects/tree/main/6%20RFM%20Analysis%20of%20online%20retail%20store)
 - [**Patient Appointment No Show Factors, EDA, Analysis**](https://github.com/Ruthwik14/Python-Sample-Projects/tree/main/5%20Patient%20Appointment%20No%20Show%20Factors%2C%20EDA%2C%20Analysis)
+
+  
 
 🔍 Currently, I am delving deeper into strategy consulting, machine learning, and data science , eager to unravel their intricacies and harness their power for innovative solutions. Exploring the latest AI tools can significantly streamline day-to-day tasks, simplify complex processes, and enhance efficiency.
 
