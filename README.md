@@ -3,9 +3,11 @@
 ### Welcome to my GitHub Universe! 🌌 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Ruthwik14.Ruthwik14&style=flat-square&color=0088cc)
 
 
-🚀 I am a detail-oriented and results-driven Data Analyst with 7 years of experience spanning manufacturing, insurance, and finance sectors, and the past 3 years dedicated to business consulting. My expertise lies in transforming raw data into actionable insights through advanced analytical tools such as Power BI, Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, Excel (including macros and VBA), and Tableau. I excel in data collection, cleaning, preprocessing, exploratory data analysis (EDA), Hypothesis testing, and KPI establishment, all aimed at enhancing business performance and strategic decision-making. My strong analytical thinking, critical thinking, and proficiency in statistics, machine learning, and data science further support my capability to drive impactful outcomes.
+🚀 I am a detail-oriented and results-driven Data Analyst with 7+ years of experience spanning Consulting ,manufacturing, insurance, and finance sectors, and the past 4 years dedicated to data anayst & Business consulting. My expertise lies in transforming raw data into actionable insights through advanced analytical tools such as Power BI, Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, and advance Excel (including macros and VBA). I excel in data collection, cleaning, preprocessing, exploratory data analysis (EDA), Hypothesis testing, and KPI establishment, all aimed at enhancing business performance and strategic decision-making. My strong analytical thinking, critical thinking, and proficiency in statistics, machine learning, and data science further support my capability to drive impactful outcomes.
 
-As a Business Consultant at Offshoot Agency Pvt. Ltd., I conducted ad-hoc analyses and developed sales reports and interactive dashboards to provide actionable insights and KPIs for the finance loan sector. I streamlined data collection from various sources, improving process efficiency, and enhanced client relations, achieving an 80% customer contact rate and a 15% increase in quarterly sales targets. My use of Excel and VBA for Training Needs Identification and Bottom Quartile Management further optimized workforce performance.
+As a Data Analyst at Design Boxed, I designed and deployed a multilingual Power BI dashboard tracking over 3 million citizen interactions from chatbot, missed call, and call center data for the Yojana scheme. I automated the end-to-end data pipeline—including collection, cleaning, translation, and standardization—using Python, which cut daily processing time by 80%. I also built a Bayesian hierarchical logistic regression model to predict state-wise public opinion using large-scale survey data, delivering deep demographic insights and driving data-backed election campaign strategies.
+
+Earlier, as a Business Consultant at Offshoot Agency Pvt. Ltd., I developed sales dashboards and delivered ad-hoc analyses that supported KPI tracking and decision-making in the finance loan sector. I streamlined data collection from platforms like SFDC, SQL, and flat files, improving reporting accuracy and efficiency. With consistent client engagement, I maintained an 80% customer contact rate and drove a 15% increase in quarterly sales targets. Additionally, I created Excel/VBA-based tools for Training Needs Identification and Bottom Quartile Management, boosting workforce performance by 18%.
 
 Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed complaint data, reducing enquiry resolution times by 15% and improving complaint resolution by 20%, which enhanced overall customer satisfaction with Good communication and cross funtion collabration.
 
@@ -29,11 +31,14 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 - ![Tableau](https://img.shields.io/badge/-Tableau-00A0E0?style=flat-square&logo=Tableau&logoColor=white) **Tableau**
 - VBA
 - MAcros
+- automation using python
 
 ### 🛠️ Projects and Dev Stuffs
 
 #### 📊 Power BI
 
+-
+- [**Chatbot Journey Insights Dashboard**](https://github.com/Ruthwik14/Power-BI/tree/main/ChatBot%20Journey%20Insights%20and%20Performance%20Dashboard)  
 - [KPMG - Marketing Analytics and Strategy Optimization Project for Sprocket Central's Success](https://github.com/Ruthwik14/Power-BI/tree/main/KPMG%20%20-%20Unleashing%20Insights%20and%20Strategies%20for%20Sprocket%20Central's%20Success)
 - [PWC - Transformative Power BI Dashboards for Enhanced Business Insights](https://github.com/Ruthwik14/Power-BI/tree/main/PWC%20-%20Transformative%20Power%20BI%20Dashboards%20for%20Enhanced%20Business%20Insights)
 - [TATA - Online Retail Dataset](https://github.com/Ruthwik14/Power-BI/tree/main/TATA%20-%20Online%20Retail%20Dataset)
@@ -55,6 +60,7 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 
 #### 🐍 Python
 
+- [**US Statewise Opinion Modeling (Bayesian)**](https://github.com/Ruthwik14/Python/tree/main/US%20Statewise%20Public%20Opinion%20Bayesian%20Model)  
 - [Credit card default for HV Turnkey Lender](https://github.com/Ruthwik14/Python/tree/main/Credit%20card%20default%20for%20HV%20Turnkey%20Lender)
 - [Employee Attrition Case Study](https://github.com/Ruthwik14/Python/tree/main/Employee%20Attrition%20Case%20Study)
 - [RFM Analysis of online retail store](https://github.com/Ruthwik14/Python/tree/main/RFM%20Analysis%20of%20online%20retail%20store)
