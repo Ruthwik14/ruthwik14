@@ -37,7 +37,7 @@ Previously, as a Customer Support Agent at Eureka Outsourcing Limited, I managed
 
 #### 📊 Power BI
 
-- [**Chatbot Journey Insights Dashboard**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/1%20ChatBot%20Journey%20Insights%20and%20Performance%20Dashboard))  
+- [**Chatbot Journey Insights Dashboard**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/1%20ChatBot%20Journey%20Insights%20and%20Performance%20Dashboard) 
 - [**KPMG - Marketing Analytics and Strategy Optimization Project for Sprocket Central's Success**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/3%20KPMG%20%20-%20Unleashing%20Insights%20and%20Strategies%20for%20Sprocket%20Central's%20Success)
 - [**PWC - Transformative Power BI Dashboards for Enhanced Business Insights**](https://github.com/Ruthwik14/POWER-BI-Sample-Projects/tree/main/2%20PWC%20-%20Transformative%20Power%20BI%20Dashboards%20for%20Enhanced%20Business%20Insights)
 - [**TATA - Online Retail Dataset**](https://github.com/Ruthwik14/Power-BI/tree/main/TATA%20-%20Online%20Retail%20Dataset)
